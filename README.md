@@ -1,4 +1,13 @@
+<h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **FOID**
+
+- 🌱 I’m currently learning **NEXT JS and JAVA**
+
+- 👯 I’m looking to collaborate on **FOID**
+
+- 🤝 I’m looking for help with **Friends of Indian Diaspora**
 
 - 💬 Ask me about **React JS and JAVA**
 
