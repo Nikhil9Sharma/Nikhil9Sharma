@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
+vi<h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **FOID**
@@ -31,6 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil9sharma&show_icons=true&locale=en&layout=compact" alt="nikhil9sharma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil9sharma&show_icons=true&locale=en" alt="nikhil9sharma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil9sharma&" alt="nikhil9sharma" /></p>
