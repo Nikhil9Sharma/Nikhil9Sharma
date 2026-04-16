@@ -7,7 +7,6 @@
 
 - 🤝 I’m looking for help with **Friends of Indian Diaspora**
 
-- 💬 Ask me about **React JS and JAVA**
 
 - 📫 How to reach me **workwithnikhil09@gmail.com**
 
