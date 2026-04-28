@@ -1,11 +1,11 @@
-<h1 align="center">Hello ! I'm Nikhil Sharma</h1>
+k<h1 align="center">Hello ! I'm Nikhil Sharma</h1>
 - 🔭 I’m currently working on FOID Website Frontend 
 
 - 🌱 I’m currently learning **NEXT JS and JAVA**
 
 - 👯 I’m looking to collaborate on **FOID**
 
-- 🤝 I’m looking for help with Friends of Indian Diaspora
+- 🤝 I’m looking for help with "Friends of Indian Diaspora"
 
 
 - 📫 How to reach me **workwithnikhil09@gmail.com**
