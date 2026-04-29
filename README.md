@@ -16,7 +16,7 @@ k<h1 align="center">Hello ! I'm Nikhil Sharma</h1>
 <p align="left">
 <a href="https://dev.to/nikhilsharma906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nikhilsharma906" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhilsharma906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilsharma906" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nikhilsharma906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilsharma906" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
