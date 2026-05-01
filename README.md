@@ -1,4 +1,4 @@
-k<h1 align="center">Hello ! I'm Nikhil Sharma</h1>
+<h1 align="center">Hello ! I'm Nikhil Sharma</h1>
 - 🔭 I’m currently working on FOID Website Frontend 
 
 - 🌱 I’m currently learning **NEXT JS and JAVA**
