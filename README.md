@@ -8,7 +8,7 @@
 - 🤝 I’m looking for help with "Friends of Indian Diaspora"
 
 
-- 📫 How to reach me **workwithnikhil09@gmail.com**
+- 📫 How to reach me **workwithnikhil09@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dTt0spcjQwDQ6j4DgwEXquG0WepEr2f9/view?usp=sharing](https://drive.google.com/file/d/1dTt0spcjQwDQ6j4DgwEXquG0WepEr2f9/view?usp=sharing)
 
